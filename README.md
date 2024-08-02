@@ -78,7 +78,7 @@ Banks leverage advanced analytics provided by Apache Spark to enhance customer s
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhagyasriUddandam)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.bhagyasriramarao/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
-(pic2.png)
+
 
 ## 💼 Work Experience:
 ### Front-End Developer | Ioninks
