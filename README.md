@@ -1,4 +1,4 @@
-![Bhagya Sri Uddandam](pic2)
+![Bhagya Sri Uddandam](pic2.png)
 # 💫 About Me:
 I'm Bhagya Sri Uddandam, a dedicated Tech and Cloud enthusiast from Visakhapatnam, India. With a passion for statistics, mathematics, and AI, my skills in Python, POSTGRESQL, R, and Excel to drive innovation in machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization.
 
@@ -78,7 +78,7 @@ Banks leverage advanced analytics provided by Apache Spark to enhance customer s
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhagyasriUddandam)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.bhagyasriramarao/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
-(image0(7))
+(image0(7).jpeg)
 
 ## 💼 Work Experience:
 ### Front-End Developer | Ioninks
