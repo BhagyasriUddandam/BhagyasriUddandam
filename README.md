@@ -37,7 +37,6 @@ In my free time, I nurture my love for writing by exploring various research top
 ## 🔧 Most Used Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%234259D4.svg?style=for-the-badge&logo=figma&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-%2358BDF5.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
