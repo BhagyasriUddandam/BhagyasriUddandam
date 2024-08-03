@@ -130,11 +130,6 @@ Banks leverage advanced analytics provided by Apache Spark to enhance customer s
 - Qualified for the **Amazon Web Services (AWS) AI/ML SCHOLARSHIP** (Winter Cohort 2023) and received a $4000 USD sponsorship to attend Udacity's AI Programming with Python Nanodegree.
 - Selected as one of the top 500 participants for the AWS AI/ML Scholarship, displaying commitment and aptitude in AI/ML. Additionally, supported by Udacity's Advanced Machine Learning Nanodegree program.
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyasri&show_icons=true&theme=radical)
-
-## 🔝 Top Contributed Repo:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyasri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Popular Repositories:
 - [FloraVision: AI-Powered Flower Image Classification](https://github.com/BhagyasriUddandam/Flower-Image-Classifier)
