@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm Bhagya Sri Uddandam, a dedicated Tech and Cloud enthusiast from Visakhapatnam, India. With a passion for statistics, mathematics, and AI, my skills in Python, POSTGRESQL, R, and Excel to drive innovation in machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization.
+I'm Bhagya Sri Uddandam, a dedicated Tech and Cloud enthusiast from Visakhapatnam, India. With a passion for AI and ML, my skills in Python, POSTGRESQL, R, and Excel to drive innovation in machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization.
 
 In my free time, I nurture my love for writing by exploring various research topics and authoring insightful papers. Alongside, I invest in personal growth by reading self-help books and seeking new learning opportunities.
 
