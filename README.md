@@ -14,7 +14,7 @@ In my free time, I nurture my love for writing by exploring various research top
 
 ##  💼 Skills
 
-## 🛠️ Programming Languages:
+## 💻  Programming Languages:
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%234B8BBE.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -24,7 +24,7 @@ In my free time, I nurture my love for writing by exploring various research top
 ![NLP](https://img.shields.io/badge/NLP-%230074C1.svg?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-%2304C2C2.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## 🗃️ Data Engineering:
+## 💻  Data Engineering:
 ![Scripting](https://img.shields.io/badge/Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-%234B9AA0.svg?style=for-the-badge&logo=datawarehouse&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-%2321A179.svg?style=for-the-badge&logo=data-cleaning&logoColor=white)
