@@ -71,7 +71,7 @@ In my free time, I nurture my love for writing by exploring various research top
 
 Following up on my interests in machine learning and big data, I explore various topics through research and practical applications. One such exploration is detailed in the paper titled:
 
-Banks leverage advanced analytics provided by Apache Spark to enhance customer service and optimize marketing strategies. This paper integrates machine learning techniques to gain insights into consumer behavior through predictive modeling and efficient data processing. Key topics include customer segmentation, predictive modeling, and personalized marketing. PySpark's user-friendly interface and Spark's scalability support tactics related to growth, customer acquisition, and retention.
+Banks advanced analytics provided by Apache Spark to enhance customer service and optimize marketing strategies. This paper integrates machine learning techniques to gain insights into consumer behavior through predictive modeling and efficient data processing. Key topics include customer segmentation, predictive modeling, and personalized marketing. PySpark's user-friendly interface and Spark's scalability support tactics related to growth, customer acquisition, and retention.
 
 [Read the paper](https://www.ijraset.com/best-journal/machine-learning-exploration-of-bank-marketing-data-with-apache-spark)
 
