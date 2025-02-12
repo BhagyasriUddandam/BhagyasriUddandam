@@ -1,14 +1,14 @@
 ![Bhagya Sri Uddandam](myimg.png)
 
 
-# 💫 About Me:
+#  About Me:
 I'm Bhagya Sri Uddandam, a dedicated Tech and Cloud enthusiast from Visakhapatnam, India. With a passion for AI and ML, my skills in Python, POSTGRESQL, R, and Excel to drive innovation in machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization.
 
 In my free time, I nurture my love for writing by exploring various research topics and authoring insightful papers. Alongside, I invest in personal growth by reading self-help books and seeking new learning opportunities.
 
 📍 **Location**: India, Visakhapatnam
-📧 **Email**: bhagyasriuddandam@gmail.com
-📱 **Phone**: +91-7780263858
+ **Email**: bhagyasriuddandam@gmail.com
+ **Phone**: +91-7780263858
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
 
