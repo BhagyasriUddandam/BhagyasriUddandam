@@ -12,7 +12,7 @@ In my free time, I nurture my love for writing by exploring various research top
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
 
-##  💼 Skills
+
 
 ## 💻  Programming Languages:
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
