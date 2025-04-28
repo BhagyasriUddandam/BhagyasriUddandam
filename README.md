@@ -37,7 +37,7 @@
 - Selected as one of the top 500 participants for the AWS AI/ML Scholarship, displaying commitment and aptitude in AI/ML. Additionally, supported by Udacity's Advanced Machine Learning Nanodegree program.
 - 
 ### 📦 Hackathon Achievement
-🏆 Runner Up – AIRBUS  | AIRBUS Aerothon 6.0 | Hacker Earth
+🏆 Finalist – AIRBUS  | AIRBUS Aerothon 6.0 | Hacker Earth
 
 🔹[SkyPulse](https://skypulse.streamlit.app/)
 ---
