@@ -39,7 +39,7 @@ jobs:
           # The directory where the snake files were generated (must match 'outputs' path above)
           build_dir: dist
           # The branch to push the generated files to (usually 'main' or 'master')
-          target_branch: main # Change to 'master' if that's your default branch name
+          target_branch: Retail # Change to 'master' if that's your default branch name
         env:
           # A token is required to push to the repository
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
