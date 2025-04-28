@@ -138,16 +138,10 @@ Following up on my interests in machine learning and big data, I explore various
 - Enhanced user satisfaction and retention, decreased page load time by 25%, and improved website performance through thorough testing and analysis.
 
 ### Architecting a Virtual Private Cloud (VPC) Infrastructure on AWS
-- Led the creation of a scalable and secure AWS VPC infrastructure, incorporating network ACLs, security groups, subnets, NAT, internet gateways, and routing tables; increasing system efficiency by 40% and security by 60%.
+- Created a scalable and secure AWS VPC infrastructure, incorporating network ACLs, security groups, subnets, NAT, internet gateways, and routing tables; increased system efficiency by 40% and security by 60%.
 - Configured VPC components such as VPN connections and Load Balancers, ensuring optimal performance and seamless communication.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhagyasriUddandam/BhagyasriUddandam/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhagyasriUddandam/BhagyasriUddandam/main/output/github-contribution-grid-snake.svg">
-    <img alt="Bhagyasri's Contribution Snake Graph" src="https://raw.githubusercontent.com/BhagyasriUddandam/BhagyasriUddandam/main/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+
 
 ## 🌐 Spoken Languages:
 ![English](https://img.shields.io/badge/English-%23007573.svg?style=for-the-badge&logo=language&logoColor=white)
