@@ -1,94 +1,127 @@
-![Bhagya Sri Uddandam](myimg.png)
+<p align="center">
+  <img src="myimg.png" alt="Bhagya Sri Uddandam" width="300">
+</p>
 
 
-#  About Me:
-I'm Bhagya Sri Uddandam, a dedicated Tech and Cloud enthusiast from Visakhapatnam, India. With a passion for AI and ML, my skills in Python, POSTGRESQL, R, and Excel to drive innovation in machine learning and artificial intelligence. Proficient in Microsoft Power Apps, I constantly strive to improve my expertise in data analysis and visualization.
+<h1 align="center"> Hi There, I'm Bhagya Sri!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-In my free time, I nurture my love for writing by exploring various research topics and authoring insightful papers. Alongside, I invest in personal growth by reading self-help books and seeking new learning opportunities.
-
-📍 **Location**: India, Visakhapatnam
- **Email**: bhagyasriuddandam@gmail.com
- **Phone**: +91-7780263858
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
+<h3 align="center"> Applied AI & ML Enthusiast | Northeastern University</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyasriuddandam&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyasriuddandam" /> </p>
 
-## 💻  Programming Languages:
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%234B8BBE.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=for-the-badge&logo=java&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-%230074C1.svg?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-%2304C2C2.svg?style=for-the-badge&logo=python&logoColor=white)
+<img align='right' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='230'>
 
-## 💻  Data Engineering:
-![Scripting](https://img.shields.io/badge/Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-%234B9AA0.svg?style=for-the-badge&logo=datawarehouse&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-%2321A179.svg?style=for-the-badge&logo=data-cleaning&logoColor=white)
+🌱 I’m currently focused on enhancing my skills in Machine Learning, Deep Learning, and cloud technologies relevant to Data Science and Artificial Intelligence.
 
-## 📊 Analytics & Algorithm Development:
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%231F77B4.svg?style=for-the-badge&logo=python&logoColor=white)
-![Mathematical Algorithm](https://img.shields.io/badge/Mathematical%20Algorithm-%234C4C6C.svg?style=for-the-badge&logo=math&logoColor=white)
-![Text Mining](https://img.shields.io/badge/Text%20Mining-%230080FF.svg?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning Techniques](https://img.shields.io/badge/Machine%20Learning%20Techniques-%23FFCC00.svg?style=for-the-badge&logo=python&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23F2C300.svg?style=for-the-badge&logo=python&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%2304C2C2.svg?style=for-the-badge&logo=python&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-%23271D56.svg?style=for-the-badge&logo=python&logoColor=white)
+- 📫 How to reach me **bhagyasriuddandam@gmail.com** , **uddandam.b@northeastern.edu**
 
-## 🔧 Most Used Tools:
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%234259D4.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-%2358BDF5.svg?style=for-the-badge&logo=rstudio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Data Studio](https://img.shields.io/badge/Data%20Studio-%23F7C50A.svg?style=for-the-badge&logo=google-data-studio&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-%231F77B4.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-%234B4F6F.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%233673E1.svg?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-%23F5A828.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
 
-## 💻 Operating Systems:
-![Windows](https://img.shields.io/badge/Windows-%23121011.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%A4C639.svg?style=for-the-badge&logo=android&logoColor=white)
+---
 
-## 🌐 Spoken Languages:
-![English](https://img.shields.io/badge/English-%23007573.svg?style=for-the-badge&logo=language&logoColor=white)
-![Hindi](https://img.shields.io/badge/Hindi-%23FF5722.svg?style=for-the-badge&logo=language&logoColor=white)
-![Telugu](https://img.shields.io/badge/Telugu-%230051A0.svg?style=for-the-badge&logo=language&logoColor=white)
-![Turkish](https://img.shields.io/badge/Turkish-%23313131.svg?style=for-the-badge&logo=language&logoColor=white)
-![German (Beginner)](https://img.shields.io/badge/German%20(Beginner)-%23FFEB3B.svg?style=for-the-badge&logo=language&logoColor=white)
-![Italian (Beginner)](https://img.shields.io/badge/Italian%20(Beginner)-%23FF5722.svg?style=for-the-badge&logo=language&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhagyasri-u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="bhagyasri-u linkedin" height="30" width="40" /></a>
+  
+<a href="https://github.com/BhagyasriUddandam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="bhagyasriuddandam github" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/_.bhagyasriramarao/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="bhagyasriramarao instagram" height="30" width="40" /></a>
+  
+<a href="https://bhagii.vercel.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" alt="bhagii vercel portfolio" height="30" width="40" /></a> <!-- Using Vercel logo as it hosts the portfolio -->
+</p>
 
+## 🏆 Accomplishments:
+- Recipient of **Advanced AWS AI/ML Scholarship** among Top 500 Students with Udacity (Summer Cohort 2024)
+- Qualified for the **Amazon Web Services (AWS) AI/ML SCHOLARSHIP** (Winter Cohort 2023) and received a $4000 USD sponsorship to attend Udacity's AI Programming with Python Nanodegree.
+- Selected as one of the top 500 participants for the AWS AI/ML Scholarship, displaying commitment and aptitude in AI/ML. Additionally, supported by Udacity's Advanced Machine Learning Nanodegree program.
+- 
+### 📦 Hackathon Achievement
+🏆 Runner Up – AIRBUS  | AIRBUS Aerothon 6.0 | Hacker Earth
+
+🔹[SkyPulse](https://skypulse.streamlit.app/)
+---
 
 ## 📄 Research Paper
 ## 📚 Machine Learning Exploration of Bank Marketing Data with Apache Spark - IJRASET
 **[PAPER ID: IJRASE8T61287]**
 
-Following up on my interests in machine learning and big data, I explore various topics through research and practical applications. One such exploration is detailed in the paper titled:
-
-Banks advanced analytics provided by Apache Spark to enhance customer service and optimize marketing strategies. This paper integrates machine learning techniques to gain insights into consumer behavior through predictive modeling and efficient data processing. Key topics include customer segmentation, predictive modeling, and personalized marketing. PySpark's user-friendly interface and Spark's scalability support tactics related to growth, customer acquisition, and retention.
+Following up on my interests in machine learning and big data, I explore various topics through research and practical applications. One such exploration is detailed in the paper titled
 
 [Read the paper](https://www.ijraset.com/best-journal/machine-learning-exploration-of-bank-marketing-data-with-apache-spark)
+---
 
+### 🛠️ Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagyasri-u)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhagyasriUddandam)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.bhagyasriramarao/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
+**Languages & Frameworks:**
 
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit_learn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <!-- Add other Language/Framework logos here -->
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+   <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a>
+  <!-- Add Seaborn if found -->
 
-## 💼 Work Experience:
-### Front-End Developer | Ioninks
-**May 2023 - June 2023 | Visakhapatnam, India**
-- Implemented HTML, CSS, JavaScript, and Angular, reducing page loading time by 40%, increasing user engagement by 25%, and decreasing bounce rate by 15%.
-- Led the integration of Figma, cutting design iterations by 50% and enhancing customer satisfaction by 30%.
-- Organized weekly knowledge-sharing sessions, boosting project efficiency by 20%.
+</p>
+
+**Tools & Platforms:**
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> </a>
+   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <!-- Add Power BI if found -->
+
+</p>
+
+**GenAI:**
+
+<p align="left">
+  <!-- Add Langchain, Hugging Face, Llama, Mistral, OpenAI, Pinecone, Faiss logos here - finding appropriate icon URLs is needed -->
+  <!-- Example for OpenAI -->
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/openai.svg" alt="OpenAI" width="40" height="40"/></a>
+  <!-- Example for Hugging Face -->
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/huggingface.svg" alt="Hugging Face" width="40" height="40"/></a>
+  <!-- NOTE: Finding specific, usable URLs for all GenAI logos might require searching Simple Icons, official brand assets, or other icon repositories -->
+</p>
+
+</table>
+
+### 📊 My GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top">
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyasriUddandam&theme=default&layout=compact" alt="Bhagyasri Top Languages"/>
+    </td>
+    <td valign="top">
+       <!-- GitHub Streak Stats Card -->
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhagyasriUddandam&theme=default" alt="Bhagyasri GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 💻 Projects:
 ### [FloraVision: AI-Powered Flower Image Classification](https://github.com/BhagyasriUddandam/Flower-Image-Classifier)
@@ -108,47 +141,22 @@ Banks advanced analytics provided by Apache Spark to enhance customer service an
 - Led the creation of a scalable and secure AWS VPC infrastructure, incorporating network ACLs, security groups, subnets, NAT, internet gateways, and routing tables; increasing system efficiency by 40% and security by 60%.
 - Configured VPC components such as VPN connections and Load Balancers, ensuring optimal performance and seamless communication.
 
-## 📜 Certifications:
-- **AI Programming with Python - Nanodegree**
-- **Zscaler Cybersecurity Fundamentals Associate Course-Licence**
-- **Career Essentials in Data Analysis by Microsoft and LinkedIn**
-- **Google Cloud Career Practitioners Campaign (GCCP) Pathway in Cloud Skills Boost**
-- **Certification in Cybersecurity with Cloud Computing from International Institute of Business Analytics**
-- **GCP for Beginners - Become a Google Cloud Digital Leader**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhagyasriUddandam/BhagyasriUddandam/main/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhagyasriUddandam/BhagyasriUddandam/main/output/github-contribution-grid-snake.svg">
+    <img alt="Bhagyasri's Contribution Snake Graph" src="https://raw.githubusercontent.com/BhagyasriUddandam/BhagyasriUddandam/main/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-## 🎓 Education:
-**Bachelor of Technology (B. Tech.) - Computer Science with Artificial Intelligence and Machine Learning**
-**July 2020 - May 2024 | Gayatri Vidya Parishad College Of Engineering For Women, Visakhapatnam, India**
+## 🌐 Spoken Languages:
+![English](https://img.shields.io/badge/English-%23007573.svg?style=for-the-badge&logo=language&logoColor=white)
+![Hindi](https://img.shields.io/badge/Hindi-%23FF5722.svg?style=for-the-badge&logo=language&logoColor=white)
+![Telugu](https://img.shields.io/badge/Telugu-%230051A0.svg?style=for-the-badge&logo=language&logoColor=white)
+![Turkish](https://img.shields.io/badge/Turkish-%23313131.svg?style=for-the-badge&logo=language&logoColor=white)
+![German (Beginner)](https://img.shields.io/badge/German%20(Beginner)-%23FFEB3B.svg?style=for-the-badge&logo=language&logoColor=white)
+![Italian (Beginner)](https://img.shields.io/badge/Italian%20(Beginner)-%23FF5722.svg?style=for-the-badge&logo=language&logoColor=white)
 
-## 🛠️ Skills:
-- **Programming Languages**: JavaScript, Cloud Technology, Python, SQL, C++, R, Java, NLP with Python, AI Programming with Python
-- **Tools and Frameworks**: Jupyter, Visual Studio, Figma
-- **Operating Systems**: Windows, Linux, Android
-
-## 🏆 Accomplishments:
-- Recipient of **Advanced AWS AI/ML Scholarship** among Top 500 Students with Udacity (Summer Cohort 2024)
-- Qualified for the **Amazon Web Services (AWS) AI/ML SCHOLARSHIP** (Winter Cohort 2023) and received a $4000 USD sponsorship to attend Udacity's AI Programming with Python Nanodegree.
-- Selected as one of the top 500 participants for the AWS AI/ML Scholarship, displaying commitment and aptitude in AI/ML. Additionally, supported by Udacity's Advanced Machine Learning Nanodegree program.
-
-
-## Popular Repositories:
-- [FloraVision: AI-Powered Flower Image Classification](https://github.com/BhagyasriUddandam/Flower-Image-Classifier)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-- [Pre-trained Image Classifier to Identify Dog Breeds](https://github.com/BhagyasriUddandam/BhagyasriUddandamUse-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-- [WashIt Up - Laundry Service Website]
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- [Architecting a Virtual Private Cloud (VPC) Infrastructure on AWS]
-  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-
-## Activity Overview
-- Contributed to  Bhagyasri/Landmark-Classification---Tagging-for-Social-Media and 13 other repositories.
-- Code review: 6%
-- Issues: 2%
-- Pull requests: 97%
-- Commits: Contribution activity for August 2024 is not yet available.
 
 ## A Little More About Me:
 I was born in Tata Nagar and brought up in Visakhapatnam, India. I completed my schooling and undergraduate studies at GVPCEW, and I have been living here since then.
