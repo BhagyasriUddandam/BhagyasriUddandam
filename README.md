@@ -39,11 +39,10 @@
 ### 📦 Hackathon Achievement
 🏆 Finalist – AIRBUS  | AIRBUS Aerothon 6.0 | Hacker Earth
 
-🏆 Top 500 scholar – AMAZON  | Amazon Web Services (AWS) AI/ML SCHOLARSHIP | $4000 | 2 Nano Degrees- Udacity
-
 
 🔹[SkyPulse](https://skypulse.streamlit.app/)
 ---
+🏆 Top 500 scholar – AMAZON  | Amazon Web Services (AWS) AI/ML SCHOLARSHIP | $4000 | 2 Nano Degrees- Udacity
 
 ## 📄 Research Paper
 ## 📚 Machine Learning Exploration of Bank Marketing Data with Apache Spark - IJRASET
