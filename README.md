@@ -33,11 +33,14 @@
 
 ## 🏆 Accomplishments:
 - Recipient of **Advanced AWS AI/ML Scholarship** among Top 500 Students with Udacity (Summer Cohort 2024)
-- Qualified for the **Amazon Web Services (AWS) AI/ML SCHOLARSHIP** (Winter Cohort 2023) and received a $4000 USD sponsorship to attend Udacity's AI Programming with Python Nanodegree.
+- Qualified for the **Amazon Web Services (AWS) AI/ML SCHOLARSHIP** (Winter Cohort 2023) and received a USD 4000 sponsorship to attend Udacity's AI Programming with Python Nanodegree.
 - Selected as one of the top 500 participants for the AWS AI/ML Scholarship, displaying commitment and aptitude in AI/ML. Additionally, supported by Udacity's Advanced Machine Learning Nanodegree program.
-- 
+
 ### 📦 Hackathon Achievement
 🏆 Finalist – AIRBUS  | AIRBUS Aerothon 6.0 | Hacker Earth
+
+🏆 Top 500 scholar – AMAZON  | Amazon Web Services (AWS) AI/ML SCHOLARSHIP | $4000 | 2 Nano Degrees- Udacity
+
 
 🔹[SkyPulse](https://skypulse.streamlit.app/)
 ---
