@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyasriuddandam&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyasriuddandam" /> </p>
 
-<img align='right' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='230'>
+<img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlzaTRyaWx2Y3Rlcmd1cnluNGRpN3JpY2Z4NmhuaGc1MGN0N3VzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/px9v45I39CcxyXPqEy/giphy.gif' width='230'>
 
 🌱 I’m currently focused on enhancing my skills in Machine Learning, Deep Learning, and cloud technologies relevant to Data Science and Artificial Intelligence.
 
 - 📫 How to reach me **bhagyasriuddandam@gmail.com** , **uddandam.b@northeastern.edu**
 
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
 
 ---
 
@@ -39,11 +39,10 @@
 ### 📦 Hackathon Achievement
 🏆 Finalist – AIRBUS  | AIRBUS Aerothon 6.0 | Hacker Earth
 
+🏆 Top 500 scholar – AMAZON  | Amazon Web Services (AWS) AI/ML SCHOLARSHIP | $4000 | 2 Nano Degrees- Udacity
 
 🔹[SkyPulse](https://skypulse.streamlit.app/)
 ---
-🏆 Top 500 scholar – AMAZON  | Amazon Web Services (AWS) AI/ML SCHOLARSHIP | $4000 | 2 Nano Degrees- Udacity
-
 ## 📄 Research Paper
 ## 📚 Machine Learning Exploration of Bank Marketing Data with Apache Spark - IJRASET
 **[PAPER ID: IJRASE8T61287]**
