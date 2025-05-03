@@ -14,7 +14,7 @@
 
 🌱 I’m currently focused on enhancing my skills in Machine Learning, Deep Learning, and cloud technologies relevant to Data Science and Artificial Intelligence.
 
-- 📫 How to reach me **bhagyasriuddandam@gmail.com** , **uddandam.b@northeastern.edu**
+- 📫 How to reach me **uddandam.b@northeastern.edu**
 
  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://bhagii.vercel.app)
 
