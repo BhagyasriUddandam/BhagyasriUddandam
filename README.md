@@ -154,12 +154,10 @@ Following up on my interests in machine learning and big data, I explore various
 
 
 ## A Little More About Me:
-I was born in Tata Nagar and brought up in Visakhapatnam, India. I completed my schooling and undergraduate studies at GVPCEW, and I have been living here since then.
+I was born in Tata Nagar and raised in Visakhapatnam, India. I completed my schooling and undergraduate studies at GVPCEW and have lived here since then.
 
-I love to travel; although I haven't traveled much in my adulthood, it's something I really want to do. I also enjoy learning new languages and have a passion for history, which are hobbies I cherish. Additionally, I indulge in binge-watching various sitcoms and KDramas.
-### 🐍 Contribution Snake Animation
+I love to travel; although I haven't traveled much in my adulthood, I really want to do it. I also enjoy learning new languages and have a passion for history, which are hobbies I cherish. Additionally, I indulge in binge-watching various sitcoms and KDramas.
 
-![GitHub Snake Animation](./snake.svg)
 ### Interests:
 - **Travel**
 - **Learning New Languages**
