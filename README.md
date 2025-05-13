@@ -118,10 +118,12 @@ Following up on my interests in machine learning and big data, I explore various
     </td>
     <td valign="top">
        <!-- GitHub Streak Stats Card -->
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhagyasriUddandam&theme=default" alt="Bhagyasri GitHub Streak"/>
+       <img src="https://github-readme-streak-stats.vercel.app/?user=BhagyasriUddandam&theme=default" alt="Bhagyasri GitHub Streak"/>
     </td>
   </tr>
 </table>
+
+
 
 
 ## 💻 Projects:
