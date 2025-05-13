@@ -118,7 +118,7 @@ Following up on my interests in machine learning and big data, I explore various
     </td>
     <td valign="top">
       <!-- GitHub Streak Stats Card -->
-      <img src="https://streak-stats.demolab.com/?user=BhagyasriUddandam&theme=default" alt="GitHub Streak"/>
+      <img src="https://git-hub-streak-stats.vercel.app/?user=BhagyasriUddandam&theme=default" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
