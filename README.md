@@ -114,11 +114,11 @@ Following up on my interests in machine learning and big data, I explore various
   <tr>
     <td valign="top">
       <!-- Most Used Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyasriUddandam&theme=default&layout=compact" alt="Bhagyasri Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyasriUddandam&theme=default&layout=compact" alt="Top Languages"/>
     </td>
     <td valign="top">
-       <!-- GitHub Streak Stats Card -->
-       <img src="https://github-readme-streak-stats.vercel.app/?user=BhagyasriUddandam&theme=default" alt="Bhagyasri GitHub Streak"/>
+      <!-- GitHub Streak Stats Card -->
+      <img src="https://streak-stats.demolab.com/?user=BhagyasriUddandam&theme=default" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
